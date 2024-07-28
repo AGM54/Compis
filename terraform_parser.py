@@ -9,7 +9,7 @@ from TerraformSubsetListener import TerraformSubsetListener
 # You can use this file as a baseline for your implementation. This uses listeners, you can use a visitor pattern instead.
 
 # In this example, the token is hardcoded. You MUST change this behavior to grab the token as well from the Terraform file.
-API_TOKEN = "your_digitalocean_api_token"
+API_TOKEN = "dop_v1_3ebf9b2810626808748d47f539457288cc1cb2472143e676cd828b0b5faaef9c"
 
 class TerraformListener(TerraformSubsetListener):
     def __init__(self):
