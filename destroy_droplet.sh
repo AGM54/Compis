@@ -3,7 +3,7 @@
 # You MUST destroy all droplets.
 
 # Set your DigitalOcean API token here
-API_TOKEN=""
+API_TOKEN="cc3032-pat-14: dop_v1_3ebf9b2810626808748d47f539457288cc1cb2472143e676cd828b0b5faaef9c"
 
 # Read the droplet ID from the file
 DROPLET_ID=$(cat droplet_id.txt)

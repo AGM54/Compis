@@ -5,7 +5,7 @@
 # On windows you can use WSL2 to spin up a linux instance, use cygwin or port to PowerShell if you'd like.
 
 # Set your DigitalOcean API token here
-API_TOKEN=""
+API_TOKEN="cc3032-pat-14: dop_v1_3ebf9b2810626808748d47f539457288cc1cb2472143e676cd828b0b5faaef9c"
 
 # Define the droplet configuration
 # Do not change these values!
